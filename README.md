@@ -202,9 +202,9 @@ Lightning
 Jupyter / VS Code
 
 📌 Author
-Ruth (Loveday Okoro)
+Chikwesiri Nelson Nwigwe
 MSc Data Analytics & Technologies
-University of Bolton
+University of Greater Manchester
 
 This repository forms the data engineering backbone of the dissertation:
 
